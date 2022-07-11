@@ -1,2 +1,2 @@
 # Frontend-Website-Design
-Buidling a E-Com website using JAVA | CSS | HTML
+Building a E-Commerce website using JAVA | CSS | HTML
